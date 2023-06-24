@@ -1,0 +1,18 @@
+git init: inicializa repositorio
+git add .: agreega los archivos al repositorio
+git commit -m "descripcion": genera puntos en la linea del tiempo y nos permite verificar el estado hasta ese punto especifico
+git branch -m: crear ramas
+git push: sube achivos a github
+git pull: baja archivos de github (actualizar)
+git log: registro del historial de los cambios del proyecto
+git log --oneline: permite ver de forma reducida los distintos commit que tengo
+cd: cambiar nivel
+cp origen destino: para copiar 
+git remoto -v: para verificar 
+git remote add origin 
+git clone: permite crear una copia del repositorio por primera vez
+rm -rf .git: para borrar la inicializacion
+git config --list
+git checkout main: vuelve a la rama principal
+git reset head-1: elimina un commit hacia atras
+git restore: restaura los valores de los archivos hasta el ultimo commit
