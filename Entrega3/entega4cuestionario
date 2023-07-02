@@ -1,0 +1,9 @@
+
+mv 
+IP privada 10.0.2.15 
+MAC 08:00:27:70:6d:60
+
+IPP publica 167.58.187.187
+
+La ip privada de la MV es diferente a la de la maquina host pero la ip publica si es la misma
+
