@@ -1,0 +1,15 @@
+MV
+privada
+ IP 10.0.2.15
+ MAC 08:00:27:70:6d:60
+
+publica
+ IP 167.58.187.187
+
+la ip privada es diferente a mi maquina host pero la ip publica es la misma
+
+
+
+
+    
+
